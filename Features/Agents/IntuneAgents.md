@@ -26,7 +26,7 @@ https://www.anoopcnair.com/intune-policy-configuration-agent-introduces-an/
 **Vulnerability Remediation Agent in Microsoft Intune**  
 https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent
 https://techcommunity.microsoft.com/blog/microsoftintuneblog/stay-ahead-of-evolving-threats-with-the-latest-ai-in-intune/4395079  
-
+https://www.youtube.com/watch?v=CTfCwF7xSvo  
 
 Other Links  
 https://www.anoopcnair.com/intune-agentic-ai-enablement-roadmap-for-2026/  
