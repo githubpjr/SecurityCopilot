@@ -24,6 +24,9 @@ https://learn.microsoft.com/en-us/intune/agents/policy-configuration-agent-use?t
 https://www.anoopcnair.com/intune-policy-configuration-agent-introduces-an/  
 
 **Vulnerability Remediation Agent in Microsoft Intune**  
+
+This looks useless at the moment - AI is adding nothing here - this info is already accessible via Vulnerability Management (including the ability to export lists of impacted devices etc). I cant believe customers will be charged SCU's to pull this into Intune.  
+
 https://learn.microsoft.com/en-us/intune/agents/vulnerability-remediation-agent
 https://techcommunity.microsoft.com/blog/microsoftintuneblog/stay-ahead-of-evolving-threats-with-the-latest-ai-in-intune/4395079  
 https://www.youtube.com/watch?v=CTfCwF7xSvo  
