@@ -15,3 +15,8 @@ https://gerryhampsoncm.blogspot.com/2025/12/my-first-look-at-intune-agents-conti
 Helps IT admins to translate complex requirements and industry standard documents into actionable Intune settings, and allows administrators to quickly generate Intune settings catalog policies.
 
 https://gerryhampsoncm.blogspot.com/2026/01/my-first-look-at-intune-agents-part3.html  
+https://www.anoopcnair.com/intune-policy-configuration-agent-introduces-an/  
+
+
+Other Links  
+https://www.anoopcnair.com/intune-agentic-ai-enablement-roadmap-for-2026/  
